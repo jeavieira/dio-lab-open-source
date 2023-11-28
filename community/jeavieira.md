@@ -1,14 +1,9 @@
-<style type="text/css">
-  body {
-    background-color:#000000;
-    
-  }
-</style>
-
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=jean+vieira+marques;seja+bem+vindo!)](https://git.io/typing-svg)
 <p>Atualmente trabalho na industria como programador/operador CNC(cordenada numérica computadorizada),buscando expandir o conhecimento e novos desafios,executei os passos de acordo com o que foi proposto no curso,usando as habilidades e ferramentas sugeridas.<p>
+<style type="text/css">
+ 
 
 
 <table style="color:purple" align="center">
